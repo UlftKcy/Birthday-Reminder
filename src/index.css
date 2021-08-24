@@ -13,7 +13,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-image: linear-gradient(to top, #feada6 0%, #f5efef 100%);
 }
-main {
+.main {
   min-height: 100vh;
   display: flex;
   justify-content: center;
