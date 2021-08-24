@@ -1,3 +1,5 @@
+![birthday-reminder](https://user-images.githubusercontent.com/80036968/130682521-a8d60c89-af69-4a84-a204-c01ed0aa501a.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
