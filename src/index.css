@@ -20,8 +20,8 @@ body {
   align-items: center;
 }
 .list-container {
-  min-width: 35vw;
-  margin: 5rem 0.5rem;
+  max-width: 400px;
+  margin: 5rem auto;
   background: white;
   border-radius: 0.25rem;
   padding: 1.5rem 2rem;
